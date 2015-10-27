@@ -2,3 +2,4 @@ Mars is a red planet.
 We recently found water on Mars
 ars has two moons
 There is a rover on Mars.
+The rover is called Curiosity.
